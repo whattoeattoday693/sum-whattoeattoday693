@@ -1,5 +1,5 @@
 {
-  "name": "sum-danhacdenban18",
+  "name": "sum-whattoeattoday693",
   "version": "1.1.2",
   "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
   "main": "index.js",
@@ -9,6 +9,7 @@
   "dependencies": {
     "are-arrays": "^1.0.0",
     "are-objects": "^1.0.0",
+	"sum-whattoeattoday693":"^1.0.0",
 	"sum-danhacdenban18":"^1.0.0",
 	"sum-seeyouagainonne94":"^1.0.0",
 	"sum-girlslikeyouto683":"^1.0.0",
@@ -266,7 +267,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danhacdenban18/sum-danhacdenban18"
+    "url": "https://github.com/whattoeattoday693/sum-whattoeattoday693"
   },
   "homepage": "",
   "keywords": [
@@ -275,6 +276,6 @@
     "tong",
     "cong"
   ],
-  "author": "sum-danhacdenban18",
+  "author": "sum-whattoeattoday693",
   "license": "MIT"
 }
